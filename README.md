@@ -15,3 +15,7 @@ Developer & maker based in the USA.
 - [elizabethannstein.com](https://www.elizabethannstein.com)
 - [github.com/forbiddenlink](https://github.com/forbiddenlink)
 
+---
+
+\![GitHub stats](https://github-readme-stats.vercel.app/api?username=forbiddenlink&show_icons=true&theme=transparent&hide_border=true&hide_title=true)
+
