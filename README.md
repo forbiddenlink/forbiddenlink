@@ -2,14 +2,16 @@
 
 Developer & maker based in the USA.
 
-## What I'm working on
+## Currently building
 
-Building things with code. Check out my [pinned repositories](https://github.com/forbiddenlink?tab=repositories) below.
+**[specter](https://github.com/forbiddenlink/specter)** — Ghost-themed interactive experience with atmospheric effects
+
+**[mythos](https://github.com/forbiddenlink/mythos)** — Mythology & folklore storytelling platform
+
+**[security-trainer](https://github.com/forbiddenlink/security-trainer)** — Hands-on cybersecurity training with vulnerability simulations
 
 ## Links
 
 - [elizabethannstein.com](https://www.elizabethannstein.com)
+- [github.com/forbiddenlink](https://github.com/forbiddenlink)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=forbiddenlink&show_icons=true&theme=default&hide_border=true&hide_title=true&hide_rank=true)
