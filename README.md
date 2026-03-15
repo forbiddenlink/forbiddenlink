@@ -1,16 +1,19 @@
 # Hey, I'm Elizabeth
 
-Developer & maker based in the USA.
+Full-stack developer building AI tools, web apps, and interactive experiences.
 
 ## Currently building
 
-**[specter](https://github.com/forbiddenlink/specter)** — Ghost-themed interactive experience with atmospheric effects
+**[finance-quest](https://github.com/forbiddenlink/finance-quest)** — Financial literacy platform with 17 chapters, 30+ calculators, and spaced repetition
 
-**[mythos](https://github.com/forbiddenlink/mythos)** — Mythology & folklore storytelling platform
+**[lumira](https://github.com/forbiddenlink/lumira)** — Autonomous AI artist with mood system, episodic memory, and LoRA style training
 
-**[security-trainer](https://github.com/forbiddenlink/security-trainer)** — Hands-on cybersecurity training with vulnerability simulations
+**[automadocs](https://github.com/forbiddenlink/automadocs)** — AI-powered documentation platform with RAG-powered chat interface
+
+## Tech I work with
+
+TypeScript · Python · Rust · React · Next.js · Go · WebGL
 
 ## Links
 
 - [elizabethannstein.com](https://www.elizabethannstein.com)
-
