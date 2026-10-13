@@ -1,68 +1,31 @@
-<h1 align="center">Elizabeth Stein</h1>
+# Elizabeth Stein
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Craft+CMS+%40+Rocketpark+%C2%B7+Power+Platform+%40+CRC+%C2%B7+SaaS+experiments" alt="Craft CMS @ Rocketpark · Power Platform @ CRC · SaaS experiments" />
-  </a>
-</p>
+Full-stack developer working in Next.js, React, and TypeScript, plus Dynamics 365 / Power Platform and Craft CMS. I design and build software, ship it to production, and write down what it actually does.
 
----
+[Portfolio](https://www.elizabethannstein.com) · [Résumé (PDF)](https://www.elizabethannstein.com/resume/elizabeth-stein-resume.pdf) · [Email](mailto:purplegumdropz@gmail.com)
 
-I'm a self-taught full-stack designer-engineer who ships. By day I build Craft CMS sites for agency clients at Rocketpark and Dynamics 365 / Power Platform tooling for a cybersecurity nonprofit (CyberReady Clinic). Nights and weekends I run a small swarm of SaaS experiments off an external SSD — most of them die, a few keep going. I care about thoughtful UI, clean data models, and shipping things that real people actually use.
+## What I do now
 
-## Now
+- Sole developer on a security-readiness platform for a cybersecurity nonprofit, built on Dynamics 365, Power Platform, and Dataverse, plus a Next.js lead-gen app.
+- Craft CMS (PHP/Twig) sites for agency clients at Rocketpark.
+- Side projects in TypeScript, shipped on Vercel, listed below.
 
-What I'm actively working on (live at [elizabethannstein.com/now](https://elizabethannstein.com/now)):
+## Selected work
 
-- Revamping CRC's MSP Ready5 Assessment in Dynamics 365 and shipping the Lead Gen Next.js app
-- Studying for **SC-200** (Microsoft Security Operations) and going deeper on Power Platform
-- Polishing portfolio-pro, hire-ready, and myaqualog ahead of public launches
+| Project | What it is | Live |
+|---|---|---|
+| [Trace](https://github.com/forbiddenlink/trace) | Turns a UI screenshot into an editable React component. Gemini vision detection, mapped to a component catalog and scored for accessibility. | [trace-liz.vercel.app](https://trace-liz.vercel.app) |
+| [TimeSlipSearch](https://github.com/forbiddenlink/time-slip-search) | Type a date or a phrase like "summer of 69" and get the #1 song, top movies, prices, and news from that day. Retro CRT interface. | [timeslipsearch.vercel.app](https://timeslipsearch.vercel.app) |
+| [Specter](https://github.com/forbiddenlink/specter) | Local code-intelligence CLI that maps change impact and ranks refactors from your code and git history. Published on npm, with 14 MCP tools. | [npm](https://www.npmjs.com/package/@purplegumdropz/specter) |
+| [AutomaDocs](https://automadocs.com) | Connects to GitHub and keeps generated docs current on every push, with a chat that cites its sources. Closed source. | [automadocs.com](https://automadocs.com) |
+| [Portfolio](https://github.com/forbiddenlink/elizabethannstein) | My site, with case studies. | [elizabethannstein.com](https://elizabethannstein.com) |
 
 ## Stack
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Drizzle](https://img.shields.io/badge/-Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Craft CMS](https://img.shields.io/badge/-Craft%20CMS-E5422B?style=flat-square&logo=craftcms&logoColor=white)
-![Power Platform](https://img.shields.io/badge/-Power%20Platform-742774?style=flat-square&logo=powerautomate&logoColor=white)
+- **Web:** Next.js, React, TypeScript, Tailwind CSS, Node
+- **Data and services:** Postgres (Supabase, Neon), Drizzle, Stripe, Sentry
+- **Microsoft:** Dynamics 365, Power Apps, Power Automate, Dataverse
+- **CMS:** Craft CMS, PHP, Twig
+- **Also:** Python
 
-## Featured
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/forbiddenlink/portfolio-pro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=forbiddenlink&repo=portfolio-pro&theme=tokyonight&hide_border=true" alt="portfolio-pro" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/forbiddenlink/hire-ready">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=forbiddenlink&repo=hire-ready&theme=tokyonight&hide_border=true" alt="hire-ready" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/forbiddenlink/storyvision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=forbiddenlink&repo=storyvision&theme=tokyonight&hide_border=true" alt="storyvision" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/forbiddenlink/myaqualog">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=forbiddenlink&repo=myaqualog&theme=tokyonight&hide_border=true" alt="myaqualog" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <a href="https://elizabethannstein.com">elizabethannstein.com</a> · <a href="mailto:purplegumdropz@gmail.com">purplegumdropz@gmail.com</a>
-</p>
+B.S. in Information Technology (Software Development), Capella University, 2026, summa cum laude.
