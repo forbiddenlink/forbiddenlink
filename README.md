@@ -1,8 +1,8 @@
 # Elizabeth Stein
 
-Full-stack developer working in Next.js, React, and TypeScript, with Power Platform / Dynamics 365 and Craft CMS on the side that pays the bills. I design and build software that ships, then keep the receipts.
+Full-stack developer working in Next.js, React, and TypeScript, plus Dynamics 365 / Power Platform and Craft CMS. I design and build software, ship it to production, and write down what it actually does.
 
-[Portfolio](https://www.elizabethannstein.com) · [Résumé (PDF)](https://elizabethannstein.com/resume.pdf) · [Email](mailto:purplegumdropz@gmail.com)
+[Portfolio](https://www.elizabethannstein.com) · [Résumé (PDF)](https://www.elizabethannstein.com/resume/elizabeth-stein-resume.pdf) · [Email](mailto:purplegumdropz@gmail.com)
 
 ## What I do now
 
@@ -26,6 +26,6 @@ Full-stack developer working in Next.js, React, and TypeScript, with Power Platf
 - **Data and services:** Postgres (Supabase, Neon), Drizzle, Stripe, Sentry
 - **Microsoft:** Dynamics 365, Power Apps, Power Automate, Dataverse
 - **CMS:** Craft CMS, PHP, Twig
-- **Also:** Python, Rust
+- **Also:** Python
 
 B.S. in Information Technology (Software Development), Capella University, 2026, summa cum laude.
