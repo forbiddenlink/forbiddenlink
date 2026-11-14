@@ -2,7 +2,7 @@
 
 Full-stack developer working in Next.js, React, and TypeScript, plus Dynamics 365 / Power Platform and Craft CMS. I design and build software, ship it to production, and write down what it actually does.
 
-[Portfolio](https://www.elizabethannstein.com) · [Résumé (PDF)](https://www.elizabethannstein.com/resume/elizabeth-stein-resume.pdf) · [Email](mailto:purplegumdropz@gmail.com)
+[Portfolio](https://www.elizabethannstein.com) · [Résumé (PDF)](https://www.elizabethannstein.com/resume/elizabeth-stein-resume.pdf) · [Contact](https://www.elizabethannstein.com/contact)
 
 ## What I do now
 
