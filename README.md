@@ -7,14 +7,14 @@ Full-stack developer working in Next.js, React, and TypeScript, plus Dynamics 36
 ## What I do now
 
 - Sole developer on a security-readiness platform for a cybersecurity nonprofit, built on Dynamics 365, Power Platform, and Dataverse, plus a Next.js lead-gen app.
-- Craft CMS (PHP/Twig) sites for agency clients at Rocketpark.
+- Software Engineering Intern at Rocket Park, a web agency: Craft CMS (PHP/Twig) client sites.
 - Side projects in TypeScript, shipped on Vercel, listed below.
 
 ## Selected work
 
 | Project | What it is | Live |
 |---|---|---|
-| [Trace](https://github.com/forbiddenlink/trace) | Turns a UI screenshot into an editable React component. Gemini vision detection, mapped to a component catalog and scored for accessibility. | [trace-liz.vercel.app](https://trace-liz.vercel.app) |
+| [Trace](https://github.com/forbiddenlink/trace) | Turns a UI screenshot into an editable React component. Gemini vision detection, mapped to a component catalog and scored for accessibility. | [trace-seven-ashen.vercel.app](https://trace-seven-ashen.vercel.app) |
 | [TimeSlipSearch](https://github.com/forbiddenlink/time-slip-search) | Type a date or a phrase like "summer of 69" and get the #1 song, top movies, prices, and news from that day. Retro CRT interface. | [timeslipsearch.vercel.app](https://timeslipsearch.vercel.app) |
 | [Specter](https://github.com/forbiddenlink/specter) | Local code-intelligence CLI that maps change impact and ranks refactors from your code and git history. Published on npm, with 14 MCP tools. | [npm](https://www.npmjs.com/package/@purplegumdropz/specter) |
 | [AutomaDocs](https://automadocs.com) | Connects to GitHub and keeps generated docs current on every push, with a chat that cites its sources. Closed source. | [automadocs.com](https://automadocs.com) |
